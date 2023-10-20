@@ -15,7 +15,7 @@ class Car:
     def print_info(self):
         print(f"Car name = {self.name}. Car max speed = {self.max_speed}km per hour.")
 
-race = 1
+race = 3
 
 while race > 0:
     namee = input("What's your car name? - ")
